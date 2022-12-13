@@ -1,1 +1,1 @@
-# Fraud-Detection-in-Insurance-Claims
+# Fraud Detection in Insurance Claims
